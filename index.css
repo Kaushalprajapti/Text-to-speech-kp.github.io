@@ -78,6 +78,23 @@ form .row select{
   font-size: 14px;
   background: none;
 }
+.main{
+  position: absolute;
+  top: 0vh;
+  padding: px;
+  background-color: black;
+  color: white;
+  width: 100vw;
+  text-align: center;
+  border: 5px solid red;
+  border-radius: 10px;
+  font-family: sans-serif;
+}
+.main:hover{
+  background-color: white;
+  color: black;
+  border-color: #0abaff;
+}
 form .row select::-webkit-scrollbar{
   width: 8px;
 }
@@ -118,23 +135,7 @@ form button:hover{
   padding-left: 20px;
 }
 
-.main{
-  position: absolute;
-  top: 0vh;
-  padding: px;
-  background-color: black;
-  color: white;
-  width: 100vw;
-  text-align: center;
-  border: 5px solid red;
-  border-radius: 10px;
-  font-family: sans-serif;
-}
-.main:hover{
-  background-color: white;
-  color: black;
-  border-color: #0abaff;
-}
+
 /* .main{
     
   padding-left: 40%;
