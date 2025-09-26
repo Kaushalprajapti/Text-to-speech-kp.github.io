@@ -1,0 +1,28 @@
+/* This is a CSS comment */
+
+/* Styling for the body element */
+body {
+  font-family: Arial, sans-serif; /* Sets the font */
+  background-color: #f0f0f0;    /* Sets the background color */
+  margin: 20px;                 /* Adds margin around the body */
+}
+
+/* Styling for heading elements */
+h1 {
+  color: #333; /* Sets the text color */
+  text-align: center; /* Centers the text */
+}
+
+/* Styling for a specific class */
+.container {
+  width: 80%;       /* Sets the width of the element */
+  margin: 0 auto;   /* Centers the element horizontally */
+  padding: 20px;    /* Adds padding inside the element */
+  border: 1px solid #ccc; /* Adds a border */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+/* Styling for a specific ID */
+#main-content {
+  background-color: white; /* Sets background color for this specific element */
+}
