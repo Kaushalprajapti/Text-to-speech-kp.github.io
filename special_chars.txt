@@ -1,0 +1,8 @@
+
+# Special Characters Test
+Emoji: 🚀 🎉 ✅ ❌
+Unicode: Ñoño, 日本語, 中文, العربية
+Symbols: !@#$%^&*()_+-=[]{}|;:'",.<>?/~`
+Escape sequences: 
+ 	 
+Quotes: "double" 'single' `backtick`
